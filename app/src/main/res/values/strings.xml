@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TaxiMate</string>
+    <string name="open_drawer">Open Menu</string>
+    <string name="close_drawer">Close Menu</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="start">Start</string>
+    <string name="destination">Destination</string>
+    <string name="time">Time</string>
+    <string name="search">Search</string>
+    <string name="register">Register</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_surname">Your Surname</string>
+    <string name="your_email">E-mail Address</string>
+    <string name="email_address">Email Address</string>
+    <string name="student_id">Student ID</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobile_number">0800000000</string>
+    <string name="username_register">Username</string>
+    <string name="password_register">Password</string>
+    <string name="re_password_register">Re-Password</string>
+    <string name="register_button">Register</string>
+    <string name="ok_button">OK</string>
+    <string name="button_text_status_user_main_fragment">Join Now</string>
+    <string name="text_status_user_main_fragment">Available\n Join with us</string>
+    <string name="your_sex_register">sex</string>
+    <string name="head_student_id">Student ID</string>
+    <string name="head_e_mail">E-mail</string>
+</resources>
